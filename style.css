@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color:#9d72ab ;
+}
+
+.link-header{
+    text-decoration: none;
+    color:#eac9f5 ;
+    border: 1px solid #E869AA;
+    border-radius: 10px;
+    opacity: 0.2;
+}
+
+img{
+    border: 3px solid #E869AA;
+    border-radius: 15px;
+    opacity: 0.2;
+}
+
+img:hover{
+    opacity: 1;
+    transition: all 1s linear;
+    border: 3px solid #E869AA;
+    border-radius: 15px;
+}
+
+.link-header:hover{
+    border: 3px solid #E869AA;
+    transition: all 1s linear;
+    opacity: 1;
+}
+
+li{
+    color:white
+}
+
+h1{
+    color: white;
+}
